@@ -1,0 +1,57 @@
+C:/altera/15.1/MIPS/top_module.v {1 {vlog -work work -stats=none C:/altera/15.1/MIPS/top_module.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module MUX
+-- Compiling module signex
+
+Top level modules:
+	MUX
+	signex
+
+} {} {}} C:/altera/15.1/MIPS/register_file.v {1 {vlog -work work -stats=none C:/altera/15.1/MIPS/register_file.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+
+} {} {}} C:/altera/15.1/MIPS/cu.v {1 {vlog -work work -stats=none C:/altera/15.1/MIPS/cu.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module cu
+
+Top level modules:
+	cu
+
+} {} {}} C:/altera/15.1/MIPS/instruction_memory.v {1 {vlog -work work -stats=none C:/altera/15.1/MIPS/instruction_memory.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module inst_mem
+-- Compiling module inst_tb
+
+Top level modules:
+	inst_tb
+
+} {} {}} C:/altera/15.1/MIPS/alu.v {1 {vlog -work work -stats=none C:/altera/15.1/MIPS/alu.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module ALU
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}} C:/altera/15.1/MIPS/data_memory.v {1 {vlog -work work -stats=none C:/altera/15.1/MIPS/data_memory.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module data_memory
+-- Compiling module data_tb
+
+Top level modules:
+	data_tb
+
+} {} {}} C:/altera/15.1/MIPS/PC.v {1 {vlog -work work -stats=none C:/altera/15.1/MIPS/PC.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module PC
+-- Compiling module PCplus4
+
+Top level modules:
+	PC
+	PCplus4
+
+} {} {}}
